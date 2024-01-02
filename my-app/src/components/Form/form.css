@@ -1,0 +1,18 @@
+
+.form {
+    max-width: 300px;
+    padding: 30px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    background-color: #3f32b6;
+  }
+  
+  .form > * {
+    margin-bottom: 20px;
+  }
+  
+ 
+  
